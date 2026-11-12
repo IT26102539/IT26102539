@@ -1,4 +1,4 @@
-public class IT26102539LAB7Q2 {
+public class IT26102539LAB7Q2a {
     public static void main(String[] args) {
 
         for (int i = 1; i <= 5; i++) {
